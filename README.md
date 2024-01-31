@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align= "center">
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav2923" alt="anubhav2923" /></a> </p>
 
-- 🌱 I’m currently learning **Student at Shri ShankaraCharya Technical Campus**
+
+
+- 🌱 I’m currently a **Student at Shri ShankaraCharya Technical Campus**
 
 - 📫 How to reach me **anubhavsinghas9@gmail.com**
 
