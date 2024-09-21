@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://anubhav2923.github.io/Cool_responsive_portfolio/](https://anubhav2923.github.io/Cool_responsive_portfolio/)
 
-- 📫 How to reach me **anubhavas9@gmail.com**
+- 📫 How to reach me **anubhavasinghas9@gmail.com**
 
-- 📄 Know about my experiences [https://anubhav2923.github.io/Cool_responsive_portfolio/CV/CV_Resume.pdf](https://anubhav2923.github.io/Cool_responsive_portfolio/CV/CV_Resume.pdf)
+- 📄 Know about my experiences ([https://anubhav2923.github.io/Cool_responsive_portfolio/CV/CV_Resume.pdf](https://drive.google.com/file/d/1SiJgiljXa6nYQxTupJt3uYKDyUgSk54j/view?usp=sharing))
 
 - ⚡ Fun fact **I love to play football**
 <div align= "center">
