@@ -1,7 +1,7 @@
 
 <img align="center" height="100%" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg"  />
 <h1 align="center">Hello 👋, I'm Anubhav Singh</h1>
-<h3 align="center">A passionate Frontend Developer </h3>
+<h3 align="center">A passionate Full Stack Developer </h3>
 
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://devanubhavsingh.vercel.app/)
