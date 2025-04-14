@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Frontend Developer </h3>
 
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO]((https://devanubhavsingh.vercel.app/))
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://devanubhavsingh.vercel.app/)
 
 - 📫 How to reach me **anubhavasinghas9@gmail.com**
 
