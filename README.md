@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://devanubhavsingh.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://devsinghanubhav.vercel.app/)
 
 - 📫 How to reach me **anubhavasinghas9@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16Aqra-HrNg-Bl3mQ8NllDMUPcCtqntkL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vviKV_uRF7l_XMKJUrsMqjSFQV6Vgupk/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to play football**
 <div align= "center">
