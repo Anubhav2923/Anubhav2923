@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://devsinghanubhav.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https:anubhavsinghdev.vercel.app)
 
 - 📫 How to reach me **anubhavasinghas9@gmail.com**
 
