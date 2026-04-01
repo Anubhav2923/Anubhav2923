@@ -44,4 +44,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav2923&" alt="anubhav2923" /></p>
 <p align="center">&nbsp;<img center="center" src="https://github-readme-stats.vercel.app/api?username=anubhav2923&show_icons=true&locale=en" alt="anubhav2923" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav2923&show_icons=true&locale=en&layout=compact" alt="anubhav2923" /></p> redesgin it like a professional so that it looks good for my github profile it should looks interesting and engaing if possible add some animation do this and give me the full code
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav2923&show_icons=true&locale=en&layout=compact" alt="anubhav2923" /><
